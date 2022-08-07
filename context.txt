@@ -1,0 +1,5 @@
+Data source:
+https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density
+
+GeoJSON source:
+https://github.com/techslides/D3-Maps/blob/master/data/world/world-110m2.json
